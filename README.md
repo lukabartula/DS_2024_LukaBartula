@@ -23,5 +23,9 @@ Data Structures and Algorithms @ International Burch University (2023 - 2024)
 - [[Week 5] Lecture slides - Merge Sort](https://docs.google.com/presentation/d/1v_zeIS-3-d3slnf6yqn0ngmmIM3uevVhKjTlaoXLtdc/edit?usp=sharing)
 - [[Week 5] Lab document - Merge Sort Algorithm](https://docs.google.com/document/d/1rqb7Xm2f77Hc5PFyjktFAE1ad8GSfXURjxzs7IKkars/edit?usp=sharing)
 
+## Week 5: Quick Sort
+- [[Week 6] Lecture slides - Quick Sort](https://docs.google.com/presentation/d/1-KjsXHAEROuEMd1wKWTNzsBre1gnU5TNgeGkhkJu8Mw/edit?usp=sharing)
+- [[Week 6] Lab document - Quick Sort Algorithm](https://docs.google.com/document/d/1j2Xg9d9Cv4eQwsS8r8Wo_upMvklEb_5ZPKNSX52RbRg/edit?usp=sharing)
+
 ---
 https://ibu.edu.ba @ 2024
